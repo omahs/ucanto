@@ -1,5 +1,18 @@
 # Changelog
 
+## [6.0.0](https://github.com/web3-storage/ucanto/compare/client-v5.1.0...client-v6.0.0) (2023-04-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* update ucanto to invocation spec compatible result type ([#272](https://github.com/web3-storage/ucanto/issues/272))
+* implement invocation receipts ([#266](https://github.com/web3-storage/ucanto/issues/266))
+
+### Features
+
+* implement invocation receipts ([#266](https://github.com/web3-storage/ucanto/issues/266)) ([5341416](https://github.com/web3-storage/ucanto/commit/5341416a5f1ba5048c41476bb6c6059556e8e27b))
+* update ucanto to invocation spec compatible result type ([#272](https://github.com/web3-storage/ucanto/issues/272)) ([b124ed8](https://github.com/web3-storage/ucanto/commit/b124ed8299a94e5a6b5abcb7cd075dd46ac4139d))
+
 ## [5.1.0](https://github.com/web3-storage/ucanto/compare/client-v5.0.0...client-v5.1.0) (2023-03-07)
 
 

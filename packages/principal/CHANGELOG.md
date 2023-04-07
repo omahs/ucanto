@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.2.0](https://github.com/web3-storage/ucanto/compare/principal-v5.1.0...principal-v5.2.0) (2023-04-07)
+
+
+### Features
+
+* align implementation with receipt 0.2 spec ([#271](https://github.com/web3-storage/ucanto/issues/271)) ([aeea7e3](https://github.com/web3-storage/ucanto/commit/aeea7e3c7494143dce535792b0d53520e559c45a))
+
 ## [5.1.0](https://github.com/web3-storage/ucanto/compare/principal-v5.0.2...principal-v5.1.0) (2023-03-07)
 
 
